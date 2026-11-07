@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Ilustrasi ayah">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8e0d3"/>
+      <stop offset="100%" stop-color="#6f8a72"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#abg)"/>
+  <rect x="70" y="80" width="140" height="200" rx="70" fill="#f2f6ef" opacity="0.35"/>
+  <g fill="#2f3a31">
+    <circle cx="300" cy="260" r="84"/>
+    <path d="M300 340 q-135 0 -145 120 v240 h290 V460 q-10 -120 -145 -120Z"/>
+  </g>
+  <path d="M216 210 q84 -46 168 0 q10 -66 -84 -66 q-94 0 -84 66Z" fill="#2f3a31"/>
+  <path d="M250 470 h100 v230 h-100Z" fill="#f3ece2" opacity="0.85"/>
+  <path d="M282 470 h36 l14 230 h-64Z" fill="#b4553a"/>
+</svg>

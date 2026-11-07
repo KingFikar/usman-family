@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Ilustrasi gunung danoutu">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cfe0e8"/>
+      <stop offset="100%" stop-color="#f2d7b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g3)"/>
+  <circle cx="200" cy="200" r="80" fill="#fff6df"/>
+  <path d="M0 700 L250 380 L430 620 L560 460 L800 700 V1000 H0Z" fill="#6b7f8c"/>
+  <path d="M0 780 L180 590 L340 780 L520 640 L800 800 V1000 H0Z" fill="#4d5f6b"/>
+  <path d="M250 380 L180 500 L250 520 L310 480Z" fill="#f4f7f8" opacity="0.9"/>
+  <path d="M560 460 L500 560 L560 580 L620 540Z" fill="#f4f7f8" opacity="0.85"/>
+  <rect y="800" width="800" height="200" fill="#2f3a44"/>
+</svg>

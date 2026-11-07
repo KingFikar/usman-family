@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-label="Ilustrasi akar keluarga">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbf3e7"/>
+      <stop offset="100%" stop-color="#e6d3ba"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#rbg)"/>
+  <g stroke="#8a5a3c" stroke-width="9" fill="none" stroke-linecap="round">
+    <path d="M400 120 v150"/>
+    <path d="M400 250 q-90 40 -140 140"/>
+    <path d="M400 250 q90 40 140 140"/>
+    <path d="M400 270 q-40 90 -30 200"/>
+    <path d="M400 270 q40 90 30 200"/>
+    <path d="M260 390 q-60 60 -70 140"/>
+    <path d="M540 390 q60 60 70 140"/>
+  </g>
+  <g fill="#5c7a63">
+    <ellipse cx="290" cy="180" rx="70" ry="34" transform="rotate(-22 290 180)"/>
+    <ellipse cx="510" cy="180" rx="70" ry="34" transform="rotate(22 510 180)"/>
+  </g>
+  <g fill="#b4553a" opacity="0.85">
+    <circle cx="190" cy="530" r="16"/>
+    <circle cx="610" cy="530" r="16"/>
+    <circle cx="370" cy="490" r="13"/>
+    <circle cx="430" cy="490" r="13"/>
+  </g>
+  <rect y="500" width="800" height="140" fill="#8a5a3c" opacity="0.18"/>
+</svg>

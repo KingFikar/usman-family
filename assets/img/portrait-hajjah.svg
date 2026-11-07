@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Ilustrasi orang tua">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0d9c4"/>
+      <stop offset="100%" stop-color="#c98f6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#pbg)"/>
+  <circle cx="470" cy="120" r="70" fill="#fbead0" opacity="0.65"/>
+  <g fill="#3b2a22">
+    <circle cx="300" cy="270" r="86"/>
+    <path d="M300 350 q-140 0 -150 120 v230 h300 V470 q-10 -120 -150 -120Z"/>
+  </g>
+  <path d="M300 200 q-92 0 -92 92 q0 40 18 66 q6 -84 74 -92 q68 8 74 92 q12 -26 18 -66 q0 -92 -92 -92Z" fill="#f3ece2"/>
+  <path d="M210 700 q10 -130 90 -130 q80 0 90 130Z" fill="#b4553a"/>
+</svg>

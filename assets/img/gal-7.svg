@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Ilustrasi acara lamaran keluarga">
+  <defs>
+    <linearGradient id="g7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8e0e6"/>
+      <stop offset="100%" stop-color="#b4657a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g7)"/>
+  <g fill="#fff4f7" opacity="0.4">
+    <circle cx="180" cy="220" r="120"/>
+    <circle cx="640" cy="640" r="90"/>
+  </g>
+  <g fill="#4a2c38">
+    <rect x="160" y="500" width="480" height="34" rx="12"/>
+    <rect x="220" y="534" width="26" height="200" rx="8"/>
+    <rect x="554" y="534" width="26" height="200" rx="8"/>
+  </g>
+  <g fill="#33202a">
+    <circle cx="300" cy="430" r="46"/>
+    <path d="M254 480 q46 -28 92 0 v40 h-92Z"/>
+    <circle cx="500" cy="430" r="46"/>
+    <path d="M454 480 q46 -28 92 0 v40 h-92Z"/>
+  </g>
+  <circle cx="400" cy="330" r="44" fill="#f6dca8"/>
+  <g fill="#5c7a63" opacity="0.85">
+    <circle cx="120" cy="760" r="60"/>
+    <circle cx="700" cy="220" r="46"/>
+  </g>
+</svg>

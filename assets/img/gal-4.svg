@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-label="Ilustrasi aqiqah dan anak kecil">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdf3e3"/>
+      <stop offset="100%" stop-color="#d8c2a2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#g4)"/>
+  <g fill="#e6d3ba"><circle cx="400" cy="300" r="200" opacity="0.5"/></g>
+  <g fill="#3b2a22">
+    <circle cx="300" cy="300" r="44"/><path d="M256 350 q44 -26 88 0 v130 h-88Z"/>
+    <circle cx="500" cy="300" r="44"/><path d="M456 350 q44 -26 88 0 v130 h-88Z"/>
+    <circle cx="400" cy="200" r="34"/><path d="M366 236 q34 -20 68 0 v110 h-68Z"/>
+  </g>
+  <g fill="#b4553a"><circle cx="400" cy="140" r="26"/><path d="M374 140 h52 l-8 70 h-36Z"/></g>
+  <rect y="480" width="800" height="160" fill="#8a5a3c" opacity="0.2"/>
+</svg>

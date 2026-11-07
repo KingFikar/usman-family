@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Ilustrasi rumah keluarga di Failure">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7d9b8"/>
+      <stop offset="100%" stop-color="#c4734f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g1)"/>
+  <circle cx="620" cy="180" r="70" fill="#fff2d8" opacity="0.8"/>
+  <path d="M0 720 L400 400 L800 720 V1000 H0Z" fill="#6d4633"/>
+  <path d="M250 700 L400 540 L550 700 V880 H250Z" fill="#f3e7d4"/>
+  <rect x="370" y="760" width="60" height="120" fill="#8a5a3c"/>
+  <rect x="290" y="740" width="50" height="50" fill="#a8bfae"/>
+  <rect x="470" y="740" width="50" height="50" fill="#a8bfae"/>
+  <g fill="#3f6b4c"><circle cx="140" cy="640" r="52"/><circle cx="80" cy="700" r="34"/><circle cx="700" cy="660" r="44"/></g>
+</svg>
